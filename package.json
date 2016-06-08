@@ -1,0 +1,22 @@
+{
+  "name": "simple-loga",
+  "version": "0.1.0",
+  "description": "simple logger js library",
+  "main": "simple-loga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": [
+    {
+      "name": "eastkiki",
+      "email": "eastkiki@daum.net"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:html5crew/simple-loga.git"
+  },
+  "devDependencies": {
+  }
+}
